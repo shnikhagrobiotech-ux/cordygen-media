@@ -14,7 +14,7 @@
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-08_meet-the-3/04.jpg",
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-08_meet-the-3/05.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   },
   {
@@ -30,7 +30,7 @@
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-10_sinensis-vs-militaris/04.jpg",
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-10_sinensis-vs-militaris/05.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   },
   {
@@ -45,7 +45,7 @@
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-11_raw/03.jpg",
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-11_raw/04.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   },
   {
@@ -60,7 +60,7 @@
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-12_dual-drop/03.jpg",
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-12_dual-drop/04.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   },
   {
@@ -74,7 +74,7 @@
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-13_vital/02.jpg",
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-13_vital/03.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   },
   {
@@ -86,7 +86,7 @@
    "images": [
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-14_kal-launch/01.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   },
   {
@@ -102,7 +102,7 @@
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-15_launch/04.jpg",
     "https://raw.githubusercontent.com/shnikhagrobiotech-ux/cordygen-media/main/2026-10-15_launch/05.jpg"
    ],
-   "approved": false,
+   "approved": true,
    "published_media_id": null
   }
  ]
